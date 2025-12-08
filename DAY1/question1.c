@@ -1,3 +1,6 @@
+// ❓ Question 1: Write a program to perform +, -, *, /, % operations.
+// ✨ Difficulty: Easy
+// 📅 Day 1 Practice
 #include <stdio.h>
 
 int main()
