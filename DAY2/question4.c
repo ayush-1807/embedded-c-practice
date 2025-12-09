@@ -1,3 +1,5 @@
+//Write a C program to find and print all perfect numbers within a user-defined range.
+//The user should enter the starting and ending values, and the program should display all perfect numbers in that range.
 #include <stdio.h>
 
 int main() {
